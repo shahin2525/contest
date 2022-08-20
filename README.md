@@ -148,10 +148,8 @@ def add(num1, num2): return num1 + mun2
 
  |Dog's Name|Dogs' Age|  
  |:--------|:-------|  
-
- |Snickeres|2|  
-
- |Prudence|8|
+|Snickeres|2|  
+|Prudence|8|
   
   
 
